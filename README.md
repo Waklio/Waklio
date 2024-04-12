@@ -20,7 +20,7 @@
 
 🌐 Let's Connect!
 
-- LinkedIn: www.linkedin.com/in/waklio-neto-77532624b
+- LinkedIn: https://www.linkedin.com/in/waklio-neto-77532624b
 - Email: xwaklio@gmail.com
 
 I'm eager to collaborate with fellow tech enthusiasts and embark on exciting coding adventures together! 🚀🐕‍🦺🍃
