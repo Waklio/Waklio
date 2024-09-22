@@ -16,7 +16,7 @@
   - React
   - C++
   - Python
-  - PostgreSql
+  - PostgreSQL
 
 
 🌐 Let's Connect!
