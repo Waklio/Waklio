@@ -1,12 +1,10 @@
 👋 Hey there! 
-    I'm Waklio Neto, a Computer Engineering student at the Federal University of Ceará - UFC with a passion for all things tech!
+    I'm Waklio Neto, a Computer Engineering gradueted from the Federal University of Ceará - UFC!
 
 
 🌱 Interests
 
-- Web Development: I'm deeply fascinated by the world of web development, with a primary focus on Front-end technologies.
-- I'm enthusiast of embedded Systems & IoT and i'm always exploring new ways to blend technology seamlessly into our environment, especially in the realm of embedded systems and IoT.
-
+- Web Development: I'm deeply fascinated by the world of web development, with a primary focus on Front-end and Back-end technologies.
 
 🚀 Skills
 
@@ -17,11 +15,13 @@
   - C++
   - Python
   - PostgreSQL
+  - MongoDB
 
 
 🌐 Let's Connect!
 
 - LinkedIn: https://www.linkedin.com/in/waklio-neto-77532624b
 - Email: xwaklio@gmail.com
+- Portfolio-https://portfolio-waklio.vercel.app/
 
 I'm eager to collaborate with fellow tech enthusiasts and embark on exciting coding adventures together! 🚀🐕‍🦺🍃
